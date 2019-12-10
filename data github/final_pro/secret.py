@@ -1,0 +1,6 @@
+CLIENT_ID="Dg7drfOK-PKFHtJurJHNEg"
+API_KEY="NGUnW6omQumcg4lhb1OdotscZcl92VCrCNjCTQQqJoHT8NiChXl0Bj05Y6qHdgHR36xDXWIBo-9npsRXXHtXE2t_8X8k-Xs3PQSezsLGLynQmUxjmmhjsXU1T-DlXXYx"
+
+MAPBOX_TOKEN = "pk.eyJ1IjoicHJpbmNpcGxleiIsImEiOiJjam1taTE3dGowamRjM3FqcG50MGp0anEwIn0.XuaFZy4Tff6aTfjiQUdd9Q"
+
+google_places_key = 'AIzaSyAdSDuEz28t2r4OEE_HaFrKXWmTWVfsoCA'

@@ -1,0 +1,35 @@
+Commands available:
+
+map
+	Description: Map out your competitors, who are the same type of restaurant as yours, and the parking lots in that city. 
+
+	Comprtitor are in red and parking lots in blue. 
+
+	 If you have saved sites as your future restaurant places, it would be shown in star.
+
+
+add_site
+	Description: save site I chose into the database
+
+
+save_competitors
+	Description: pick a competitor and save into database
+
+
+save_music
+	Description: save pop music from top 50 Billboard to database
+
+
+map_music_to_site
+	Description: pick a song to map to your your chosen site. 
+
+listen
+	Description: pick a song to listen in web browser
+
+show_my_songs
+	Description: will show songs you picked to save from database
+
+show_my_sites
+	Description: will show sites you saved from database
+
+
